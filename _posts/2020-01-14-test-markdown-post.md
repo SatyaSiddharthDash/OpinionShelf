@@ -92,7 +92,7 @@ key: value
 
 ## Tweetcards
 
-{% twitter https://twitter.com/SatyaSDash/status/1360555076960485379 %}
+{% twitter <https://twitter.com/SatyaSDash/status/1360555076960485379> %}
 
 
 ## Footnotes
